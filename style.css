@@ -92,3 +92,14 @@ color: hsl(228, 12%, 48%);
 h5 {
     margin-top: 50px;
 }
+.price {
+display: inline;
+text-decoration: line-through;
+margin-top: 196px;
+margin-left: 115px;
+font-size: 13px;
+}
+ button :active {
+    cursor: pointer;
+    background-color: aqua;
+}
